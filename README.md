@@ -38,3 +38,4 @@
 8. Quản lý dependency trong PHP như thế nào ?
 9. Sự khác biệt giữa GET và POST ?
 10. Cho một biến gọi là $input với các giá trị tương ứng '1,2,3,4,5,6,7,8,9'. Làm sao tính được tổng các giá trị số nguyên có trong biến $input đó ?
+11. Viết hàm tính giai thừa của một số nguyên dương cho trước theo 2 cách. (Lặp và đệ qui)
