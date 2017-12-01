@@ -43,3 +43,4 @@
 
 ## Other
 1. Hãy kể về môi trường làm việc yêu thích của bạn.
+2. Thời gian rảnh bạn thường làm gì ?
